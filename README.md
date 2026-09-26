@@ -64,6 +64,7 @@ Welcome to **Awesome NFL Analytics**, your one-stop-shop for everything related 
 - **[FiveThirtyEight NFL](https://fivethirtyeight.com/tag/nfl/):** NFL analysis and visualizations with a focus on data-driven insights.
 - **[PFF (Pro Football Focus)](https://www.pff.com/):** Advanced player and team analytics (some content requires subscription).
 - **[The Ringer NFL Analytics](https://www.theringer.com/nfl):** Analytical takes on NFL games, players, and trends.
+- **[EdgeLine NFL Team Gradings](https://www.edgelinenfl.com/nfl-gradings.html):** Free NFL team power and efficiency gradings, including EPA, success rate and defensive pressure metrics.
 
 ### Research and Articles
 - **[Next Gen Stats: New advanced metrics you NEED to know for the 2024 NFL season](https://www.nfl.com/news/next-gen-stats-new-advanced-metrics-you-need-to-know-for-the-2024-nfl-season):** Article written by the winner of the 2024 Big Data Bowl describing newest analtical tools to be aware of for the 2024 NFL season.
